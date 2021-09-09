@@ -68,7 +68,7 @@
 [刘天添](https://tiantianliu.cn/)，太极图形资深研究科学家，宾夕法尼亚大学计算机和信息科学博士，宾夕法尼亚大学计算机图形与游戏技术硕士，以及浙江大学计算机科学与技术学士。加入太极图形之前，刘天添在微软亚洲研究院的 Internet Graphics 组担任了 3 年的副研究员。
 
 ## 助教
-* [禹鹏](https://yupengvr.github.io)
-* [余畅](https://github.com/Ricahrd-Li)
+* [禹 鹏](https://yupengvr.github.io)
+* [余 畅](https://github.com/g1n0st)
 * [李喆昊](https://github.com/Ricahrd-Li)
-* [谢泠](https://github.com/Jack12xl)
+* [谢 泠](https://github.com/Jack12xl)
