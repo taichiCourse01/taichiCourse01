@@ -86,3 +86,4 @@
 * [余 畅](https://github.com/g1n0st)
 * [李喆昊](https://github.com/Ricahrd-Li)
 * [谢 泠](https://github.com/Jack12xl)
+* [张铭睿](https://github.com/erizmr)
