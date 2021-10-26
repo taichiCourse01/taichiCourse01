@@ -8,7 +8,7 @@
 
 **微信直播链接**：请关注 **太极图形科技** 微信公众号，二维码见下文。
 
-**直播回放**：https://www.bilibili.com/video/BV1aL4y1a7pv
+**直播回放**：https://space.bilibili.com/1779922645/channel/seriesdetail?sid=337716&ctype=0
 
 **课件下载**：见[课程大纲](#课程大纲及时间)表格内链接
 
@@ -31,21 +31,21 @@
 
 <div align="center">
 
-| 时间 	| 内容 	| 答疑安排 	|
-|:---:	|:---:	|:---:	|
-| 第00讲：09/14 	| 导览：什么是图形学？什么是太极？[课件](./material/00_Intro.pdf) 	| 09/16 	|
-| 第01讲：09/22 	| Hello World：编写你的第一个太极程序 [课件](./material/01_Taichi_Basis.pdf) 	| 09/23 	|
-| 第02讲：09/28 	| 复用你的太极代码：元编程和面向对象编程 [课件](https://github.com/taichiCourse01/taichiCourse01/blob/main/material/02%20Metaprogramming%20and%20OOP.pdf) 	| 09/30 	|
-| 第03讲：10/12 	| 大规模计算的关键：高级数据结构 [课件](./material/03_advanced_data_layouts.pdf)	| 10/14 	|
-| 第04讲：10/19 	| 调试和优化你的太极程序 [课件](./material/04_sm_debuge_optimization.pdf) 	| 10/21 	[作业展示: BESO](./material/BESOTopologyOptimsation.pdf)|
-| 第05讲：10/26 	| 程序动画：生成你的第一个二维动画 	| 10/28 	|
-| 第06讲：11/02 	| 渲染01：光线追踪概念和基础 	| 11/04 	|
-| 第07讲：11/09 	| 渲染02：光线追踪实战 	| 11/11 	|
-| 第08讲：11/16 	| 弹性物体仿真01：时间和空间离散化 	| 11/18 	|
-| 第09讲：11/23 	| 弹性物体仿真02：隐式积分和数值解法 	| 11/25 	|
-| 第10讲：11/30 	| 流体仿真01：拉格朗日视角 	| 12/02 	|
-| 第11讲：12/07 	| 流体仿真02：欧拉视角 	| 12/09 	|
-| 第12讲：12/14 	| 神秘嘉宾客串：从太极的使用者变成太极的贡献者 	|  	|
+| 时间 	| 内容 	| 课件 | 答疑安排 	|
+|:---:	|:---:	|:---:	|:---:	|
+| 第00讲：09/14 	| [导览：什么是图形学？什么是太极？](https://www.bilibili.com/video/BV1aL4y1a7pv) |[课件](./material/00_Intro.pdf) 	| 09/16 	|
+| 第01讲：09/22 	| [Hello World：编写你的第一个太极程序](https://www.bilibili.com/video/BV1aL4y1a7pv) |[课件](./material/01_Taichi_Basis.pdf) 	| 09/23 	|
+| 第02讲：09/28 	| [复用你的太极代码：元编程和面向对象编程](https://www.bilibili.com/video/BV11q4y1P7os) |[课件](https://github.com/taichiCourse01/taichiCourse01/blob/main/material/02%20Metaprogramming%20and%20OOP.pdf) 	| 09/30 	|
+| 第03讲：10/12 	| [大规模计算的关键：高级数据结构](https://www.bilibili.com/video/BV1Xv411g7Vg) |[课件](./material/03_advanced_data_layouts.pdf)	| 10/14 	|
+| 第04讲：10/19 	| [调试和优化你的太极程序](https://www.bilibili.com/video/BV1F44y147tm) |[课件](./material/04_sm_debuge_optimization.pdf) 	| 10/21 	[作业展示: BESO](./material/BESOTopologyOptimsation.pdf)|
+| 第05讲：10/26 	| 程序动画：生成你的第一个二维动画 |课件| 10/28 	|
+| 第06讲：11/02 	| 渲染01：光线追踪概念和基础 |课件	| 11/04 	|
+| 第07讲：11/09 	| 渲染02：光线追踪实战 |课件	| 11/11 	|
+| 第08讲：11/16 	| 弹性物体仿真01：时间和空间离散化 |课件	| 11/18 	|
+| 第09讲：11/23 	| 弹性物体仿真02：隐式积分和数值解法  |课件	| 11/25 	|
+| 第10讲：11/30 	| 流体仿真01：拉格朗日视角 |课件	| 12/02 	|
+| 第11讲：12/07 	| 流体仿真02：欧拉视角 |课件	| 12/09 	|
+| 第12讲：12/14 	| 神秘嘉宾客串：从太极的使用者变成太极的贡献者|课件 	|  	|
 </div>
 
 【**课时**】：共安排13节讲堂及12节答疑，每节课约45分钟。
