@@ -27,7 +27,7 @@
 
 ## 课程大纲及时间
 <p align="center">
- <img width="250" height="250" src="https://forum.taichi.graphics/uploads/default/original/1X/da5eac2bcfb08efc6b4103aa91731fdca6401046.jpeg">
+ <img width="250" height="250" src="https://open.weixin.qq.com/qr/code?username=taichi_graphics">
 <p>
 
 本季课程将通过 **太极图形科技** 微信公众号、[**太极图形**](https://space.bilibili.com/1779922645) bilibili账号，[**太极图形**](https://www.zhihu.com/org/tai-ji-tu-xing) 知乎机构号进行直播。
