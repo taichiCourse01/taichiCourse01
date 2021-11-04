@@ -42,7 +42,7 @@
 | 第02讲：09/28 	| [复用你的太极代码：元编程和面向对象编程](https://www.bilibili.com/video/BV11q4y1P7os) |[课件](https://github.com/taichiCourse01/taichiCourse01/blob/main/material/02%20Metaprogramming%20and%20OOP.pdf) 	| 09/30 	||
 | 第03讲：10/12 	| [大规模计算的关键：高级数据结构](https://www.bilibili.com/video/BV1Xv411g7Vg) |[课件](./material/03_advanced_data_layouts.pdf)	| 10/14 	||
 | 第04讲：10/19 	| [调试和优化你的太极程序](https://www.bilibili.com/video/BV1F44y147tm) |[课件](./material/04_sm_debuge_optimization.pdf) 	| 10/21 	|[BESO拓扑优化](https://www.bilibili.com/video/BV1F44y147tm?p=5) : [PPT](./material/BESOTopologyOptimsation.pdf)|
-| 第05讲：10/26 	| [程序动画：生成你的第一个二维动画](https://www.bilibili.com/video/BV14Q4y1q7C9?spm_id_from=333.999.0.0) |[课件](./material/05_procedural_animation.pdf)| 10/28 	|[蚂蚁吃太极](https://www.bilibili.com/video/BV14Q4y1q7C9?p=6)|
+| 第05讲：10/26 	| [程序动画：生成你的第一个二维动画](https://www.bilibili.com/video/BV14Q4y1q7C9?spm_id_from=333.999.0.0) |[课件](./material/05_procedural_animation.pdf)| 10/28 	|[蚂蚁吃太极](https://www.bilibili.com/video/BV14Q4y1q7C9?p=6): [PPT](./material/ants_eat_taichi_Afish.pdf)|
 | 第06讲：11/02 	| [渲染01：光线追踪概念和基础](https://www.bilibili.com/video/BV1AT4y1d762) |[课件](06_basics_ray_tracing.pdf)	| 11/04 	|墨戏|
 | 第07讲：11/09 	| 渲染02：光线追踪实战 |课件	| 11/11 	|太阳系仿真|
 | 第08讲：11/16 	| 弹性物体仿真01：时间和空间离散化 |课件	| 11/18 	|Marching Squares|
