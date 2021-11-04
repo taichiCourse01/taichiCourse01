@@ -8,7 +8,7 @@
 
 [**哔哩哔哩直播链接**](https://live.bilibili.com/23526804)
 
-**微信直播链接**：请关注 **太极图形科技** 微信公众号，[二维码](#课程大纲及时间)见下文。
+**微信直播链接**：请关注 **太极图形** 微信公众号，[二维码](#课程大纲及时间)见下文。
 
 ## B 站回放
 [**直播回放**](https://space.bilibili.com/1779922645/channel/seriesdetail?sid=337716&ctype=0)
@@ -30,7 +30,7 @@
  <img width="250" height="250" src="https://open.weixin.qq.com/qr/code?username=taichi_graphics">
 <p>
 
-本季课程将通过 **太极图形科技** 微信公众号、[**太极图形**](https://space.bilibili.com/1779922645) bilibili账号，[**太极图形**](https://www.zhihu.com/org/tai-ji-tu-xing) 知乎机构号进行直播。
+本季课程将通过 **太极图形** 微信公众号、[**太极图形**](https://space.bilibili.com/1779922645) bilibili账号，[**太极图形**](https://www.zhihu.com/org/tai-ji-tu-xing) 知乎机构号进行直播。
 课程直播时间为每周二晚7点（中秋顺延），答疑时间则为每周四晚7点，详细时间表如图所示。
 
 <div align="center">
