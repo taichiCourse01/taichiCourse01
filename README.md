@@ -44,7 +44,7 @@
 | 第04讲：10/19 	| [调试和优化你的太极程序](https://www.bilibili.com/video/BV1F44y147tm) |[课件](./material/04_sm_debuge_optimization.pdf) 	| [代码](https://github.com/taichiCourse01/--Diffuse) |10/21 	|[BESO拓扑优化](https://www.bilibili.com/video/BV1F44y147tm?p=5) : [PPT](./material/BESOTopologyOptimsation.pdf)|
 | 第05讲：10/26 	| [程序动画：生成你的第一个二维动画](https://www.bilibili.com/video/BV14Q4y1q7C9?spm_id_from=333.999.0.0) |[课件](./material/05_procedural_animation.pdf)|[代码](https://github.com/taichiCourse01/--Shadertoys) | 10/28 	|[蚂蚁吃太极](https://www.bilibili.com/video/BV14Q4y1q7C9?p=6): [PPT](./material/ants_eat_taichi_Afish.pdf)|
 | 第06讲：11/02 	| [渲染01：光线追踪概念和基础](https://www.bilibili.com/video/BV1AT4y1d762) |[课件](./material/06_basics_ray_tracing.pdf)	| [代码](https://github.com/taichiCourse01/taichi_ray_tracing) |11/04 	|[墨戏](https://www.bilibili.com/video/BV1AT4y1d762?p=4) : [PPT](./material/moxi.pdf)|
-| 第07讲：11/09 	| [渲染02：光线追踪实战](https://www.bilibili.com/video/BV1XL4y1q7Tp?spm_id_from=333.999.0.0) |[课件](./material/07_implementation_details_ray_tracer.pdf)	| [代码](https://github.com/taichiCourse01/taichi_ray_tracing) |11/11 	|太阳系仿真|
+| 第07讲：11/09 	| [渲染02：光线追踪实战](https://www.bilibili.com/video/BV1XL4y1q7Tp?spm_id_from=333.999.0.0) |[课件](./material/07_implementation_details_ray_tracer.pdf)	| [代码](https://github.com/taichiCourse01/taichi_ray_tracing) |11/11 	|[太阳系仿真](https://www.bilibili.com/video/BV1XL4y1q7Tp?p=7)|
 | 第08讲：11/16 	| 弹性物体仿真01：时间和空间离散化 |课件	|代码 | 11/18 	|Marching Squares|
 | 第09讲：11/23 	| 弹性物体仿真02：隐式积分和数值解法  |课件	| 代码 |11/25 	||
 | 第10讲：11/30 	| 流体仿真01：拉格朗日视角 |课件	|代码 |12/02 	||
