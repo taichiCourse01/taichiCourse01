@@ -46,7 +46,7 @@
 | 第06讲：11/02 	| [渲染01：光线追踪概念和基础](https://www.bilibili.com/video/BV1AT4y1d762) |[课件](./material/06_basics_ray_tracing.pdf)	| [代码](https://github.com/taichiCourse01/taichi_ray_tracing) |11/04 	|[墨戏](https://www.bilibili.com/video/BV1AT4y1d762?p=4) : [PPT](./material/moxi.pdf)|
 | 第07讲：11/09 	| [渲染02：光线追踪实战](https://www.bilibili.com/video/BV1XL4y1q7Tp?spm_id_from=333.999.0.0) |[课件](./material/07_implementation_details_ray_tracer.pdf)	| [代码](https://github.com/taichiCourse01/taichi_ray_tracing) |11/11 	|[太阳系仿真](https://www.bilibili.com/video/BV1XL4y1q7Tp?p=7) : [PPT](./material/solar_system.pdf)|
 | 第08讲：11/16 	| [弹性物体仿真01：时间和空间离散化](https://www.bilibili.com/video/BV1eY411x7mK) |[课件](./material/08_spatial_temporal_discretization.pdf)	|[代码](https://github.com/taichiCourse01/--Deformables) | [11/18](./material/08_Q%26A.pdf) 	|[Marching Squares](https://www.bilibili.com/video/BV1eY411x7mK?p=8): [PPT](./material/marching_squares.pdf)|
-| 第09讲：11/23 	| 弹性物体仿真02：隐式积分和数值解法  |[课件](./material/09_implicit_integration.pdf)	| [代码](https://github.com/taichiCourse01/--Deformables) |11/25 	||
+| 第09讲：11/23 	| 弹性物体仿真02：隐式积分和数值解法  |[课件](./material/09_implicit_integration.pdf)	| [代码](https://github.com/taichiCourse01/--Deformables) |11/25 	| 双摆|
 | 第10讲：11/30 	| 流体仿真01：拉格朗日视角 |课件	|代码 |12/02 	||
 | 第11讲：12/07 	| 流体仿真02：欧拉视角 |课件	| 代码 |12/09 	||
 | 第12讲：12/14 	| 神秘嘉宾客串：从太极的使用者变成太极的贡献者|课件 	|  	||
