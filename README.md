@@ -48,9 +48,9 @@
 | 第08讲：11/16 	| [弹性物体仿真01：时间和空间离散化](https://www.bilibili.com/video/BV1eY411x7mK) |[课件](./material/08_spatial_temporal_discretization.pdf)	|[代码](https://github.com/taichiCourse01/--Deformables) | [11/18](./material/08_Q%26A.pdf) 	|[Marching Squares](https://www.bilibili.com/video/BV1eY411x7mK?p=8): [PPT](./material/marching_squares.pdf)|
 | 第09讲：11/23 	| [弹性物体仿真02：隐式积分和数值解法](https://www.bilibili.com/video/BV1nr4y1Q73e)  |[课件](./material/09_implicit_integration.pdf)	| [代码](https://github.com/taichiCourse01/--Deformables) |[11/25](https://www.bilibili.com/video/BV1nr4y1Q73e?p=5) 	| [双摆](https://www.bilibili.com/video/BV1nr4y1Q73e?p=6): [PPT](./material/double_pendulum.pdf)|
 | 第10讲：11/30 	| [流体仿真01：拉格朗日视角](https://www.bilibili.com/video/BV1mi4y1o7wz) |[课件](./material/10_fluid_lagrangian.pdf)	|[代码](https://github.com/taichiCourse01/taichi_sph) |[12/02](https://www.bilibili.com/video/BV1mi4y1o7wz?p=6) 	|[Ray tracing](https://www.bilibili.com/video/BV1mi4y1o7wz?p=7): [PPT](./material/ray_tracing_mirror.pdf)|
-| 第11讲：12/07 	| [流体仿真02：欧拉视角](https://www.bilibili.com/video/BV1934y1X7MD) |[课件](./material/11_fluid_euler.pdf)	| [代码](https://github.com/taichi-dev/taichi/blob/master/python/taichi/examples/simulation/stable_fluid.py) |[12/09](https://www.bilibili.com/video/BV1934y1X7MD?p=6) 	|[WCSPH](https://www.bilibili.com/video/BV1934y1X7MD?p=7): [PPT]()|
+| 第11讲：12/07 	| [流体仿真02：欧拉视角](https://www.bilibili.com/video/BV1934y1X7MD) |[课件](./material/11_fluid_euler.pdf)	| [代码](https://github.com/taichi-dev/taichi/blob/master/python/taichi/examples/simulation/stable_fluid.py) |[12/09](https://www.bilibili.com/video/BV1934y1X7MD?p=6) 	|[WCSPH](https://www.bilibili.com/video/BV1934y1X7MD?p=7): [PPT](./material/wcsph.pdf)|
 | 第12讲：12/14 	| 神秘嘉宾客串：从太极的使用者变成太极的贡献者|[课件](./material/12_taichi_contributor.pdf) 	|  	||
-
+| 第13讲：12/21 	| 太极图形课线上见面会|课件	|  	||
 </div>
 
 【**课时**】：共安排13节讲堂及12节答疑，每节课约45分钟。
